@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Muskan Jain 👋</h1>
 <h3 align="center">
- A curious developer exploring real-time applications and learning by building, from Meerut, India 🚀
+ A curious developer exploring real-time applications and learning by building, from Meerut 🚀
 </h3>
 
 <p align="center">
