@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQFI88el04k78g/profile-displaybackgroundimage-shrink_350_1400/B4DZf55ZZKGYAY-/0/1752244283483?e=1769644800&v=beta&t=nmOaQhY6xNT5koi2Nx9WwZbJPJwKm90dFfoRxIMThyQ" alt="Community Builder Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Muskan Jain 👋</h1>
+<h1 align="center">Hii, I'm Muskan Jain 👋</h1>
 <h3 align="center">
  A curious developer exploring real-time applications and learning by building, from Meerut 🚀
 </h3>
