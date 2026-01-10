@@ -15,9 +15,6 @@
 👩‍💻 Currently working on a real-time Bootstrap + React project<br>🤝 Looking to collaborate on real-time Full Stack projects and production-level builds<br>🛠️ Looking for help with real-world project architecture, best practices, and scaling ideas<br>📚 Currently learning React and Spring Boot to strengthen full-stack development<br>🎯 Actively seeking internships and entry-level roles to learn, build, and contribute<br>⚡ Fun fact: I enjoy debugging—it’s just logic playing hide and seek 🧠
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muskanjain1702) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muskanjain1702) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Muskan-Jain-634) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30958496) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muskanjain1702@gmail.com) 
-
 # 💻 Tech Stack:
 <!-- 💻 Languages & Core Tech -->
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -56,3 +53,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muskanjain1702)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muskanjain1702@gmail.com) 
