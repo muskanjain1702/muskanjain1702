@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFI88el04k78g/profile-displaybackgroundimage-shrink_350_1400/B4DZf55ZZKGYAY-/0/1752244283483?e=1769644800&v=beta&t=nmOaQhY6xNT5koi2Nx9WwZbJPJwKm90dFfoRxIMThyQ" alt="Community Builder Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFI88el04k78g/profile-displaybackgroundimage-shrink_350_1400/B4DZf55ZZKGYAY-/0/1752244283483?e=1771459200&v=beta&t=XthUo6l_2gnGCAQelfAm1llmAPIniGsKV9fhg4e9xCQ" />
 </p>
 
 <h1 align="center">Hii, I'm Muskan Jain 👋</h1>
